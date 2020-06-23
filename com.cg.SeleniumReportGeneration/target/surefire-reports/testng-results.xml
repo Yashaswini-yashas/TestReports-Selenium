@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="7833" started-at="2020-06-18T12:38:04Z" finished-at="2020-06-18T12:38:12Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="7833" started-at="2020-06-18T12:38:04Z" finished-at="2020-06-18T12:38:12Z">
+      <class name="SeleniumTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:SeleniumTest@dfd3711]" name="launchBrowser" is-config="true" duration-ms="1982" started-at="2020-06-18T12:38:04Z" finished-at="2020-06-18T12:38:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testCaseOne()[pri:0, instance:SeleniumTest@dfd3711]" name="testCaseOne" duration-ms="3185" started-at="2020-06-18T12:38:06Z" finished-at="2020-06-18T12:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseOne -->
+        <test-method status="PASS" signature="testCaseThree()[pri:0, instance:SeleniumTest@dfd3711]" name="testCaseThree" duration-ms="1574" started-at="2020-06-18T12:38:10Z" finished-at="2020-06-18T12:38:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseThree -->
+        <test-method status="PASS" signature="testCaseTwo()[pri:0, instance:SeleniumTest@dfd3711]" name="testCaseTwo" duration-ms="1010" started-at="2020-06-18T12:38:11Z" finished-at="2020-06-18T12:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCaseTwo -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:SeleniumTest@dfd3711]" name="terminateBrowser" is-config="true" duration-ms="67" started-at="2020-06-18T12:38:12Z" finished-at="2020-06-18T12:38:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
