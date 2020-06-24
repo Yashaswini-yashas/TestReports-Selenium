@@ -103,8 +103,8 @@ private static void testCaseThree() throws InterruptedException {
 //                                              fail++;
 //                                      }
         String expectedValue = city.getText();
-        String actualValue = "new york";
-       // String actualValue = "London";
+       // String actualValue = "new york";
+       String actualValue = "London";
          Assert.assertEquals(actualValue, expectedValue);
 
 
